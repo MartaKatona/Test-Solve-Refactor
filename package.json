@@ -1,0 +1,14 @@
+{
+  "name": "challenge-test-solve-refactor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test":  "test" "mocha -R spec --bail"
+  },
+  "author": "",
+  "license": "ISC"
+}
